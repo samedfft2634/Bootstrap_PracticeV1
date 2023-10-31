@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --red: #f6162c;
+}
+
+/* ====================================================== */
+/*                         banner                         */
+/* ====================================================== */
+.banner{
+    background: url(./assets/img/banner.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:black;
+    text-shadow: 1px 2px 5px #fff;
+    color: var(--red);
+    height: 100vh;
+}
+
+.circle{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+
+}
+.circle i {
+    position: relative;
+    top: 2rem
+}
