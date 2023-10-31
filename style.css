@@ -33,3 +33,17 @@
     position: relative;
     top: 2rem
 }
+
+.our-img{
+    border: 10px solid #ccc;
+}
+
+.team a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
