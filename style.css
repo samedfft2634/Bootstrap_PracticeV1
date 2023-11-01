@@ -47,3 +47,12 @@
     background-color: #333;
     line-height: 40px;
 }
+
+.contactus{
+    background: url(./assets/img/map.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:#fff;
+    text-shadow: 1px 2px 5px #000; 
+}
